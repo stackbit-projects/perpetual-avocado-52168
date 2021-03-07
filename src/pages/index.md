@@ -72,7 +72,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Vous êtes intéressé ?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'pour nous contacter, il vous suffit de cliquer sur le bouton :-)'
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
