@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Show Cars
-    image: images/4.jpg
+    image: images/5.jpg
     content: |
       Et si vous changiez de voiture ?
     actions:
