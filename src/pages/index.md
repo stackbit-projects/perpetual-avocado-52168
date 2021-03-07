@@ -74,7 +74,7 @@ sections:
     title: Vous êtes intéressé ?
     subtitle: 'pour nous contacter, il vous suffit de cliquer sur le bouton :-)'
     actions:
-      - label: Get Started
+      - label: Nous contacter
         url: /docs/getting-started/installation
         style: primary
 seo:
